@@ -1,0 +1,13 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\bin\Debug\ConsolaViernes29.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\bin\Debug\ConsolaViernes29.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\bin\Debug\ConsolaViernes29.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\bin\Debug\EntityFramework.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\bin\Debug\EntityFramework.xml
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\obj\Debug\ConsolaViernes29.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\obj\Debug\ConsolaViernes29.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\obj\Debug\ConsolaViernes29.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\obj\Debug\ConsolaViernes29.csproj.CopyComplete
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\obj\Debug\ConsolaViernes29.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\WindowsFormsCRUD\WinFormCRUD\ConsolaViernes29\ConsolaViernes29\obj\Debug\ConsolaViernes29.pdb
